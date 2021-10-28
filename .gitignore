@@ -21,3 +21,8 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# asrofi - ini tambahan dari husein
+docker-compose.override.yml
+/.idea
+/.vscode
